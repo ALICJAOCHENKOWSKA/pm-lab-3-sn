@@ -14,3 +14,5 @@ Grupa studencka: WELDE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+3.2.2 ODP: Definiujemy na nowo wartośc graniczną w kogdzie 
+3.2.3 ODP: Nalezy zwiększyć format ramki a więc szybkość transmisji 
